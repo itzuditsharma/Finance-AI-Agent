@@ -114,6 +114,12 @@ if __name__ == "__main__":
     serve_playground_app("playground:app", reload=True)
 ```
 - Starts the server and hosts the application.
+- 
+## Usage
+1. **Run the application** and open the web interface.
+2. **Interact with the Finance AI Agent** to get stock prices, company news, and financial insights.
+3. **Use the Web Search Agent** to find relevant web-based information.
+4. **View results in a structured and visual format** using tables and charts.
 
 ### Results
 ![image](https://github.com/user-attachments/assets/b06b571f-09c7-45a8-93c1-01a78daef722)
@@ -121,15 +127,6 @@ if __name__ == "__main__":
 ![image](https://github.com/user-attachments/assets/5f6795d1-b8f0-49b6-8896-dfda6192a55e)
 ![image](https://github.com/user-attachments/assets/80977479-167f-48f3-98c6-5c819418788e)
 ![image](https://github.com/user-attachments/assets/ef1edad4-9390-4484-ba13-6f73fb91be9c)
-
-
-
-
-## Usage
-1. **Run the application** and open the web interface.
-2. **Interact with the Finance AI Agent** to get stock prices, company news, and financial insights.
-3. **Use the Web Search Agent** to find relevant web-based information.
-4. **View results in a structured and visual format** using tables and charts.
 
 ## Future Enhancements
 - **Real-time stock alerts**: Notify users of stock price changes.
